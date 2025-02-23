@@ -1,6 +1,6 @@
 # shellya-site.github.io
 # hello, world!
-<!DOCTYPE html>
+
 <html>
 <head>
 <style>
